@@ -6,6 +6,11 @@
 ## Frond End 
 ![image](/Assets/example.png)
 
+## Instructions 
+
+* Install `npm i`
+* Make sure that dependencies has `jest` and `inquirer`
+
 ## Technogies 
 * HTML
 * CSS
