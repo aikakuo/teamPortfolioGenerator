@@ -9,7 +9,7 @@
 ## Instructions 
 
 * Install `npm i`
-* Make sure that dependencies has `jest` and `inquirer`
+* Make sure that dependencies have `jest` and `inquirer`
 
 ## Technogies 
 * HTML
